@@ -1,0 +1,16 @@
+channel-neg-1.patch
+`= patch for kernel eliminates airodump channel -1 problem
+
+neomagic-usleep.patch
+`= patch for an old laptop i had fixed video issues
+
+thunar-arrows-keyboard.patch
+`= added arrow functionality to older version of ristretto
+
+xfce4-notifyd-set-monitor.patch
+`= makes the notification show up on the same monitor everytime
+ = not which one is active..
+
+xfdesktop-settings-cache-wallpaper.patch
+`= add cache for wallpaper thumnails
+ = fix bug if wallpaper directory contains more directories
