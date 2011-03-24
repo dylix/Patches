@@ -4,6 +4,9 @@ channel-neg-1.patch
 neomagic-usleep.patch
 `= patch for an old laptop i had fixed video issues
 
+terminus.patch
+`= allows you to compile "terminus" font into your kernel for whatever reason
+
 thunar-arrows-keyboard.patch
 `= added arrow functionality to older version of ristretto
 
